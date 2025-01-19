@@ -219,8 +219,11 @@ int main()
                 buses[0].showAvailableBuses();
                 break;
             case 5:
-                exit(0);
+                exit(0);  // Exit the program
+            default:
+                cout << "Invalid option. Please try again."; // Handle invalid input
+            break;
         }
     }
-    return 0;
+    return 0;  // Return success
 }
