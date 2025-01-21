@@ -1,0 +1,3 @@
+C:/Users/SUVAM TALUKDER/CLionProjects/student-report-card-system/cmake-build-debug/CMakeFiles/student_report_card_system.dir
+C:/Users/SUVAM TALUKDER/CLionProjects/student-report-card-system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SUVAM TALUKDER/CLionProjects/student-report-card-system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
