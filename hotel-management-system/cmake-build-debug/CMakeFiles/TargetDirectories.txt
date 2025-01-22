@@ -1,0 +1,3 @@
+C:/Users/SUVAM TALUKDER/CLionProjects/hotel-management-system/cmake-build-debug/CMakeFiles/hotel_management_system.dir
+C:/Users/SUVAM TALUKDER/CLionProjects/hotel-management-system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SUVAM TALUKDER/CLionProjects/hotel-management-system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
