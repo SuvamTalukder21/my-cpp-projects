@@ -1,0 +1,3 @@
+C:/Users/SUVAM TALUKDER/CLionProjects/food-ordering-system/cmake-build-debug/CMakeFiles/food_ordering_system.dir
+C:/Users/SUVAM TALUKDER/CLionProjects/food-ordering-system/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SUVAM TALUKDER/CLionProjects/food-ordering-system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
