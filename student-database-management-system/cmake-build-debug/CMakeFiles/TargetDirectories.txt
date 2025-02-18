@@ -1,3 +1,0 @@
-C:/Users/SUVAM TALUKDER/CLionProjects/student-database-management-system/cmake-build-debug/CMakeFiles/student_database_management_system.dir
-C:/Users/SUVAM TALUKDER/CLionProjects/student-database-management-system/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/SUVAM TALUKDER/CLionProjects/student-database-management-system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
