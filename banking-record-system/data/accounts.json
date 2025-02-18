@@ -1,0 +1,34 @@
+[
+    {
+        "accountHolderName": "John Doe",
+        "accountNumber": 1001,
+        "balance": 1150.0,
+        "transactions": [
+            {
+                "amount": 300.0,
+                "date": "13/02/2025",
+                "transactionID": 3738139507,
+                "type": "Deposit"
+            },
+            {
+                "amount": -150.0,
+                "date": "14/02/2025",
+                "transactionID": 804877953,
+                "type": "Withdraw"
+            }
+        ]
+    },
+    {
+        "accountHolderName": "Jane Smith",
+        "accountNumber": 1002,
+        "balance": 1500.0,
+        "transactions": [
+            {
+                "amount": 200.0,
+                "date": "14/02/2025",
+                "transactionID": 2437336964,
+                "type": "Deposit"
+            }
+        ]
+    }
+]
